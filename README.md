@@ -1,91 +1,87 @@
 <h1 align="center">Hi 👋, I'm Sindhu A</h1>
 
 <h3 align="center">
-Aspiring Software Developer | Frontend & React Developer | Java & SQL Enthusiast
+Aspiring Software Developer | Frontend & React Developer
 </h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sindhuanand233672&label=Profile%20Views&color=blueviolet&style=flat" alt="profile views" />
+  <i>Building responsive web experiences and growing one project at a time.</i>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Sindhuanand233672&label=Profile%20Views&color=6A5ACD&style=flat" alt="Profile Views" />
 </p>
 
 ---
 
 ## 👩‍💻 About Me
 
-🎓 B.E. Graduate in **Artificial Intelligence & Machine Learning**
+🎓 B.E. Graduate in Artificial Intelligence & Machine Learning
 
-💻 Passionate about building **responsive, interactive, and user-friendly web applications**
+💻 Aspiring Software Developer with a strong interest in Frontend Development
 
-⚛️ Currently focused on improving my skills in **React.js, JavaScript, Java, SQL, and Data Structures & Algorithms**
+⚛️ Building projects using React.js, JavaScript, HTML & CSS
 
-🌱 I enjoy learning by building projects and solving real-world problems through technology
+☕ Strengthening my skills in Java and problem solving
 
-🚀 Looking for opportunities as a:
+🗄️ Learning and practicing SQL & Database concepts
 
-- Frontend Developer
-- React Developer
-- Java Developer
-- Software Developer
-- Software Engineering Intern
+🚀 Open to Software Developer and Internship opportunities
 
-📫 Open to learning, collaboration, internships, and entry-level software development opportunities.
+I enjoy turning ideas into interactive and user-friendly applications. My goal is to continuously improve as a developer by building real-world projects, solving problems, and learning modern technologies.
 
 ---
 
-## 🎯 Career Goals
+## 🚀 Currently Focusing On
 
-My goal is to grow into a skilled software developer who can build reliable, scalable, and user-focused applications.
-
-Currently, I am focusing on:
-
-- ⚛️ Advanced React Development
-- ☕ Java Programming
+- ⚛️ Advanced React.js Concepts
+- ☕ Java & Object-Oriented Programming
 - 🧠 Data Structures & Algorithms
-- 🗄️ SQL and Database Concepts
-- 🌐 Modern Frontend Development
-- 🔧 Building real-world projects
-- 🚀 Improving problem-solving skills
+- 🗄️ SQL & Database Concepts
+- 🌐 Responsive Frontend Development
+- 🔧 Building Real-World Projects
+- 💻 Improving Problem-Solving Skills
 
 ---
 
-# 🚀 Tech Stack
+## 🛠️ Tech Stack
 
 ### 💻 Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,js,python" />
+  <img src="https://skillicons.dev/icons?i=java,js,python" />
 </p>
 
 ### 🌐 Frontend Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,react" />
+  <img src="https://skillicons.dev/icons?i=html,css,react" />
 </p>
 
 ### 🗄️ Database
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql" />
+  <img src="https://skillicons.dev/icons?i=mysql" />
 </p>
 
 ### 🛠️ Tools & Technologies
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,bootstrap" />
 </p>
 
 ---
 
-# 💼 Featured Projects
+## 🚀 Featured Projects
 
-## 🏦 UniBank Secure React Banking Application
+### 🏦 UniBank — Secure React Banking Application
 
-A responsive banking application built using React.js.
+A responsive banking application built using React.js with interactive account and transaction management features.
 
-### Features
+#### Features
 
 - 🔐 Authentication
-- 💰 Deposit and Withdrawal
+- 💰 Deposit & Withdrawal
 - 🔄 Money Transfer
 - 📊 Account Analytics
 - 💳 Transaction Management
@@ -93,21 +89,21 @@ A responsive banking application built using React.js.
 - 📱 Responsive User Interface
 - 🔄 Dynamic UI Updates
 
-### Tech Stack
+#### Tech Stack
 
-`React.js` `JavaScript` `HTML5` `CSS3`
+`React.js` • `JavaScript` • `HTML5` • `CSS3`
 
-🔗 **Repository:** Add your GitHub repository link here
+🔗 **Repository:** [Add Your UniBank Repository Link Here](YOUR_UNIBANK_REPOSITORY_LINK)
 
 ---
 
-## 📰 The Midnight Chronicle
+### 📰 The Midnight Chronicle
 
-An interactive web application inspired by vintage newspapers.
+An interactive and responsive website inspired by vintage newspapers.
 
-### Features
+#### Features
 
-- 🌙 Light / Dark Mode
+- 🌙 Light & Dark Mode
 - 📰 Interactive Stories
 - 📖 Story Modal
 - ✨ Scroll Reveal Animations
@@ -115,21 +111,21 @@ An interactive web application inspired by vintage newspapers.
 - 🎨 Hover Interactions
 - 📱 Responsive Design
 
-### Tech Stack
+#### Tech Stack
 
-`HTML5` `CSS3` `JavaScript`
+`HTML5` • `CSS3` • `JavaScript`
 
-🔗 **Repository:** Add your GitHub repository link here
+🔗 **Repository:** [Add Your Repository Link Here](YOUR_MIDNIGHT_CHRONICLE_REPOSITORY_LINK)
 
-🌐 **Live Demo:** Add your GitHub Pages link here
+🌐 **Live Demo:** [View Live Project](YOUR_LIVE_DEMO_LINK)
 
 ---
 
-## 👵 Wearable Technology for Elderly Care
+### 👵 Wearable Technology for Elderly Care
 
-A final-year project focused on improving elderly care through wearable technology.
+A wearable technology project focused on gesture-based communication and health monitoring for elderly individuals.
 
-### Features
+#### Features
 
 - ✋ Gesture-Based Communication
 - ❤️ Health Monitoring
@@ -137,39 +133,28 @@ A final-year project focused on improving elderly care through wearable technolo
 - 🚨 Automated Emergency Alerts
 - 🤖 Machine Learning Integration
 
-### Tech Stack
+#### Tech Stack
 
-`Arduino` `IoT` `Machine Learning`
+`Arduino` • `IoT` • `Machine Learning`
 
-🔗 **Repository:** Add your GitHub repository link here
-
----
-
-# 🧠 Core Concepts
-
-<p>
-
-• Object-Oriented Programming (OOP)
-
-• Data Structures & Algorithms
-
-• React Components
-
-• State Management
-
-• JavaScript Fundamentals
-
-• Responsive Web Design
-
-• SQL Fundamentals
-
-• Git & GitHub
-
-</p>
+🔗 **Repository:** [Add Your Repository Link Here](YOUR_ELDERLY_CARE_REPOSITORY_LINK)
 
 ---
 
-# 📊 GitHub Statistics
+## 🧠 Core Concepts
+
+- Object-Oriented Programming (OOP)
+- Data Structures & Algorithms
+- React Components
+- State Management
+- JavaScript Fundamentals
+- Responsive Web Design
+- SQL Fundamentals
+- Git & GitHub
+
+---
+
+## 📊 GitHub Statistics
 
 <p align="center">
 
@@ -179,7 +164,7 @@ height="170"
 />
 
 <img
-src="https://github-readme-streak-stats.herokuapp.com/?user=Sindhuanand233672&theme=tokyonight&hide_border=true"
+src="https://streak-stats.demolab.com?user=Sindhuanand233672&theme=tokyonight&hide_border=true"
 height="170"
 />
 
@@ -187,7 +172,7 @@ height="170"
 
 ---
 
-# 💻 Most Used Languages
+## 💻 Most Used Languages
 
 <p align="center">
 
@@ -197,11 +182,9 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sindhuanand2
 
 </p>
 
-> Note: Most Used Languages represents the languages used in public repositories and does not necessarily represent overall skill level.
-
 ---
 
-# 📈 Contribution Graph
+## 📈 Contribution Activity
 
 <p align="center">
 
@@ -213,7 +196,7 @@ src="https://github-readme-activity-graph.vercel.app/graph?username=Sindhuanand2
 
 ---
 
-# 🏆 GitHub Achievements
+## 🏆 GitHub Achievements
 
 <p align="center">
 
@@ -225,11 +208,16 @@ src="https://github-profile-trophy.vercel.app/?username=Sindhuanand233672&theme=
 
 ---
 
-# 📚 Currently Learning
+## 📚 My Learning Journey
 
 ```text
-☕ Java + Data Structures & Algorithms
-⚛️ Advanced React Concepts
-🗄️ SQL & Database Management
-🌐 Modern Frontend Development
-🔧 Real-World Project Development
+2026 Goals
+
+✔ Build strong React projects
+✔ Improve Java programming skills
+✔ Practice Data Structures & Algorithms
+✔ Strengthen SQL knowledge
+✔ Build a professional developer portfolio
+✔ Contribute consistently on GitHub
+✔ Prepare for Software Developer opportunities
+✔ Learn by building real-world projects
